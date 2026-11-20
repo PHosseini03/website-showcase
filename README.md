@@ -1,6 +1,6 @@
 # Website-Portfolio – Live-Showcase
 
-Eine Übersichtsseite für 8 Demo-Websites. Ein Klick auf eine Website lädt sie **live** in einem Geräte-Rahmen (Desktop, Tablet oder Smartphone) – man sieht sie laden und kann sich durch alle Seiten klicken.
+Eine Übersichtsseite für 9 Demo-Websites. Ein Klick auf eine Website lädt sie **live** in einem Geräte-Rahmen (Desktop, Tablet oder Smartphone) – man sieht sie laden und kann sich durch alle Seiten klicken.
 
 | Website | Branche |
 |---|---|
